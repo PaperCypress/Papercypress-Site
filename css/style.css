@@ -776,7 +776,9 @@ a.icon {
   position: relative;
   bottom: -50px;
 }
-
+#contact i{
+  font-size: 30px;
+}
 
 /* footer section styles
 /* ========================================== */
