@@ -453,6 +453,16 @@ a.icon {
   padding-top: 150px !important;
 }
 
+#switch-lang{
+  border: none;
+  background-color: white;
+  font-size: 1.3em;
+  margin-right: 2%;
+  overflow: visible;
+  text-overflow: "";
+  padding-top: 10px;
+
+}
 
 /* Portfolio section styles
 /* ========================================== */
